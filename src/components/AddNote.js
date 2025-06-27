@@ -32,7 +32,7 @@ const AddNote = () => {
                         <input type="text" className="form-control" id="description1" name="description" onChange={onChange} />
                     </div>
                   
-                    <button type="submit" className="btn btn-primary" onClick={clkHandle}>Submit</button>
+                    <button type="submit" className="btn btn-primary" onClick={clkHandle}>Add Note</button>
                 </form>
             </div>
         </div>
